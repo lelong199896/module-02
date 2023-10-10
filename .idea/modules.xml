@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/IntroJavaBT/IntroJavaBT.iml" filepath="$PROJECT_DIR$/IntroJavaBT/IntroJavaBT.iml" />
       <module fileurl="file://$PROJECT_DIR$/IntroJavaTH/IntroJavaTH.iml" filepath="$PROJECT_DIR$/IntroJavaTH/IntroJavaTH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoopsInJavaBT/LoopsInJavaBT.iml" filepath="$PROJECT_DIR$/LoopsInJavaBT/LoopsInJavaBT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoopsInJavaTH/LoopsInJavaTH.iml" filepath="$PROJECT_DIR$/LoopsInJavaTH/LoopsInJavaTH.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/module 2.iml" filepath="$PROJECT_DIR$/.idea/module 2.iml" />
     </modules>
   </component>
