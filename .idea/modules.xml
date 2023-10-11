@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayInJavaTH/ArrayInJavaTH.iml" filepath="$PROJECT_DIR$/ArrayInJavaTH/ArrayInJavaTH.iml" />
       <module fileurl="file://$PROJECT_DIR$/IntroJavaBT/IntroJavaBT.iml" filepath="$PROJECT_DIR$/IntroJavaBT/IntroJavaBT.iml" />
       <module fileurl="file://$PROJECT_DIR$/IntroJavaTH/IntroJavaTH.iml" filepath="$PROJECT_DIR$/IntroJavaTH/IntroJavaTH.iml" />
       <module fileurl="file://$PROJECT_DIR$/LoopsInJavaBT/LoopsInJavaBT.iml" filepath="$PROJECT_DIR$/LoopsInJavaBT/LoopsInJavaBT.iml" />
