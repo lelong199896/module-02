@@ -7,9 +7,9 @@ public class Fan {
         this.radius = radius;
         this.color = color;
     }
-    final private int SLOW = 1;
-    final private int MEDIUM = 2;
-    final private int FAST = 3;
+    final static private int SLOW = 1;
+    final static private int MEDIUM = 2;
+    final static private int FAST = 3;
     private int speed = SLOW;
     private boolean status;
 
