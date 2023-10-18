@@ -34,17 +34,16 @@ public class IntroJava {
 
          for (int i = numLength; i > 0; i--) {
          int x = Integer.parseInt(String.valueOf(num.charAt(numLength - i)));
-
-         if (i == 2) {
-         if (x == 1) {
-         result += number[Integer.parseInt(num.substring(numLength - 2))];
-         break;
-         } else {
-         result += tens[x] + " ";
-         }
-         } else {
-         result += number[x] + " " + unit[i - 1] + " ";
-         }
+             if (i == 2) {
+                if (x == 1) {
+                    result += number[Integer.parseInt(num.substring(numLength - 2))];
+                break;
+                 } else {
+                    result += tens[x] + " ";
+                 }
+             } else {
+                result += number[x] + " " + unit[i - 1] + " ";
+             }
          }
          System.out.println(result);
 
