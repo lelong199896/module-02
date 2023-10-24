@@ -22,6 +22,8 @@
       <module fileurl="file://$PROJECT_DIR$/ListTH/ListTH.iml" filepath="$PROJECT_DIR$/ListTH/ListTH.iml" />
       <module fileurl="file://$PROJECT_DIR$/LoopsInJavaBT/LoopsInJavaBT.iml" filepath="$PROJECT_DIR$/LoopsInJavaBT/LoopsInJavaBT.iml" />
       <module fileurl="file://$PROJECT_DIR$/LoopsInJavaTH/LoopsInJavaTH.iml" filepath="$PROJECT_DIR$/LoopsInJavaTH/LoopsInJavaTH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StackQueueBT/StackQueueBT.iml" filepath="$PROJECT_DIR$/StackQueueBT/StackQueueBT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StackQueueTH/StackQueueTH.iml" filepath="$PROJECT_DIR$/StackQueueTH/StackQueueTH.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/module 2.iml" filepath="$PROJECT_DIR$/.idea/module 2.iml" />
     </modules>
   </component>

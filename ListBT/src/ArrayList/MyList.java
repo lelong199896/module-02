@@ -79,7 +79,7 @@ public class MyList<E> {
         if (size == 0) {
             result = null;
         } else {
-            for (int i = 0; i <size; i++) {
+            for (int i = 0; i < size; i++) {
                 if (i == size - 1) {
                     result.append(elements[i]).append("]");
                 } else {

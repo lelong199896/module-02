@@ -15,8 +15,9 @@ public class MyListTest {
 
                 System.out.println(list.size());
 
-                list.clear();
+//                list.clear();
                 list.printList();
+        System.out.println(list.get(2));
             }
         }
 
