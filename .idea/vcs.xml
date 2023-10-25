@@ -2,5 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SearchAlgorithmTH/src/ComplexityOfAlgorithm/apj-2023-absolute-number-calculator" vcs="Git" />
   </component>
 </project>

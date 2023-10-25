@@ -12,6 +12,8 @@
       <module fileurl="file://$PROJECT_DIR$/ClassAndObjectTH/ClassAndObjectTH.iml" filepath="$PROJECT_DIR$/ClassAndObjectTH/ClassAndObjectTH.iml" />
       <module fileurl="file://$PROJECT_DIR$/CleanCodeBT/CleanCodeBT.iml" filepath="$PROJECT_DIR$/CleanCodeBT/CleanCodeBT.iml" />
       <module fileurl="file://$PROJECT_DIR$/CleanCodeTH/CleanCodeTH.iml" filepath="$PROJECT_DIR$/CleanCodeTH/CleanCodeTH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionFrameworkBT/CollectionFrameworkBT.iml" filepath="$PROJECT_DIR$/CollectionFrameworkBT/CollectionFrameworkBT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionFrameworkTH/CollectionFrameworkTH.iml" filepath="$PROJECT_DIR$/CollectionFrameworkTH/CollectionFrameworkTH.iml" />
       <module fileurl="file://$PROJECT_DIR$/InterfaceAndAbstractBT/InterfaceAndAbstractBT.iml" filepath="$PROJECT_DIR$/InterfaceAndAbstractBT/InterfaceAndAbstractBT.iml" />
       <module fileurl="file://$PROJECT_DIR$/InterfaceAndAbstractTH/InterfaceAndAbstractTH.iml" filepath="$PROJECT_DIR$/InterfaceAndAbstractTH/InterfaceAndAbstractTH.iml" />
       <module fileurl="file://$PROJECT_DIR$/IntroJavaBT/IntroJavaBT.iml" filepath="$PROJECT_DIR$/IntroJavaBT/IntroJavaBT.iml" />
@@ -22,6 +24,8 @@
       <module fileurl="file://$PROJECT_DIR$/ListTH/ListTH.iml" filepath="$PROJECT_DIR$/ListTH/ListTH.iml" />
       <module fileurl="file://$PROJECT_DIR$/LoopsInJavaBT/LoopsInJavaBT.iml" filepath="$PROJECT_DIR$/LoopsInJavaBT/LoopsInJavaBT.iml" />
       <module fileurl="file://$PROJECT_DIR$/LoopsInJavaTH/LoopsInJavaTH.iml" filepath="$PROJECT_DIR$/LoopsInJavaTH/LoopsInJavaTH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SearchAlgorithmBT/SearchAlgorithmBT.iml" filepath="$PROJECT_DIR$/SearchAlgorithmBT/SearchAlgorithmBT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SearchAlgorithmTH/SearchAlgorithmTH.iml" filepath="$PROJECT_DIR$/SearchAlgorithmTH/SearchAlgorithmTH.iml" />
       <module fileurl="file://$PROJECT_DIR$/StackQueueBT/StackQueueBT.iml" filepath="$PROJECT_DIR$/StackQueueBT/StackQueueBT.iml" />
       <module fileurl="file://$PROJECT_DIR$/StackQueueTH/StackQueueTH.iml" filepath="$PROJECT_DIR$/StackQueueTH/StackQueueTH.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/module 2.iml" filepath="$PROJECT_DIR$/.idea/module 2.iml" />
