@@ -83,4 +83,58 @@ public class BST<E extends Comparable<E>> extends AbstractTree<E> {
         preorder(root.left);
         preorder(root.right);
     }
+
+    public boolean delete(E e) {
+        TreeNote<E> parent = null;
+        TreeNote<E> current = root;
+        while (current != null) {
+            int compare = e.compareTo(current.element);
+            if (compare == 0) {
+                break;
+            }
+            parent = current;
+            if (compare < 0) {
+                current = current.left;
+            } else {
+                current = current.right;
+            }
+        }
+
+        if (current == null) {
+            return false;
+        }
+        if (current.left == null) {
+            replaceNode(parent, current, current.left);
+        } else {
+            TreeNote<E> min = findMin(current.right);
+            current.element = min.element;
+            deleteMin(current);
+        }
+        size--;
+        return true;
+    }
+
+    private void replaceNode(TreeNote<E> parent, TreeNote<E> current, TreeNote<E> newNode) {
+        if (parent == null) {
+            root = newNode;
+        } else if (current == parent.left) {
+            parent.left = newNode;
+        } else {
+            parent.right = newNode;
+        }
+    }
+
+    private TreeNote<E> findMin(TreeNote<E> node) {
+        while (node.left != null) {
+            node = node.left;
+        }
+        return node;
+    }
+
+    private void deleteMin(TreeNote<E> node) {
+        while (node.right != null) {
+//            TreeNote<E> parent = node;
+            node = node.right;
+        }
+    }
 }

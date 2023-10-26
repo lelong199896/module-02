@@ -22,5 +22,10 @@ public class BinarySearchTree {
         System.out.println("\npreorder (sorted): ");
         tree.preorder();
         System.out.println("The number of nodes is: " + tree.getSize());
+
+        System.out.println("\nDelete: ");
+        tree.delete(String.valueOf(1));
+        tree.inorder();
+        System.out.println("The number of nodes is: " + tree.getSize());
     }
 }
