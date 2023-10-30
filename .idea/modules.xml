@@ -31,6 +31,8 @@
       <module fileurl="file://$PROJECT_DIR$/SortAlgorithmTH/SortAlgorithmTH.iml" filepath="$PROJECT_DIR$/SortAlgorithmTH/SortAlgorithmTH.iml" />
       <module fileurl="file://$PROJECT_DIR$/StackQueueBT/StackQueueBT.iml" filepath="$PROJECT_DIR$/StackQueueBT/StackQueueBT.iml" />
       <module fileurl="file://$PROJECT_DIR$/StackQueueTH/StackQueueTH.iml" filepath="$PROJECT_DIR$/StackQueueTH/StackQueueTH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TextFileBT/TextFileBT.iml" filepath="$PROJECT_DIR$/TextFileBT/TextFileBT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TextFileTH/TextFileTH.iml" filepath="$PROJECT_DIR$/TextFileTH/TextFileTH.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/module 2.iml" filepath="$PROJECT_DIR$/.idea/module 2.iml" />
     </modules>
   </component>
