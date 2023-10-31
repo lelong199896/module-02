@@ -51,6 +51,9 @@
       <module fileurl="file://$PROJECT_DIR$/TextFile/TextFile.iml" filepath="$PROJECT_DIR$/TextFile/TextFile.iml" />
       <module fileurl="file://$PROJECT_DIR$/TextFile/TextFileBT/TextFileBT.iml" filepath="$PROJECT_DIR$/TextFile/TextFileBT/TextFileBT.iml" />
       <module fileurl="file://$PROJECT_DIR$/TextFile/TextFileTH/TextFileTH.iml" filepath="$PROJECT_DIR$/TextFile/TextFileTH/TextFileTH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threading/Threading.iml" filepath="$PROJECT_DIR$/Threading/Threading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threading/ThreadingBT/ThreadingBT.iml" filepath="$PROJECT_DIR$/Threading/ThreadingBT/ThreadingBT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threading/ThreadingTH/ThreadingTH.iml" filepath="$PROJECT_DIR$/Threading/ThreadingTH/ThreadingTH.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/module 2.iml" filepath="$PROJECT_DIR$/.idea/module 2.iml" />
     </modules>
   </component>
