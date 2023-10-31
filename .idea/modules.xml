@@ -2,37 +2,55 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AccessModifierBT/AccessModifierBT.iml" filepath="$PROJECT_DIR$/AccessModifierBT/AccessModifierBT.iml" />
-      <module fileurl="file://$PROJECT_DIR$/AccessModifierTH/AccessModifierTH.iml" filepath="$PROJECT_DIR$/AccessModifierTH/AccessModifierTH.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ArrayInJavaBT/ArrayInJavaBT.iml" filepath="$PROJECT_DIR$/ArrayInJavaBT/ArrayInJavaBT.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ArrayInJavaTH/ArrayInJavaTH.iml" filepath="$PROJECT_DIR$/ArrayInJavaTH/ArrayInJavaTH.iml" />
-      <module fileurl="file://$PROJECT_DIR$/AutomatedTestingBT/AutomatedTestingBT.iml" filepath="$PROJECT_DIR$/AutomatedTestingBT/AutomatedTestingBT.iml" />
-      <module fileurl="file://$PROJECT_DIR$/AutomatedTestingTH/AutomatedTestingTH.iml" filepath="$PROJECT_DIR$/AutomatedTestingTH/AutomatedTestingTH.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ClassAndObjectBT/ClassAndObjectBT.iml" filepath="$PROJECT_DIR$/ClassAndObjectBT/ClassAndObjectBT.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ClassAndObjectTH/ClassAndObjectTH.iml" filepath="$PROJECT_DIR$/ClassAndObjectTH/ClassAndObjectTH.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CleanCodeBT/CleanCodeBT.iml" filepath="$PROJECT_DIR$/CleanCodeBT/CleanCodeBT.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CleanCodeTH/CleanCodeTH.iml" filepath="$PROJECT_DIR$/CleanCodeTH/CleanCodeTH.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CollectionFrameworkBT/CollectionFrameworkBT.iml" filepath="$PROJECT_DIR$/CollectionFrameworkBT/CollectionFrameworkBT.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CollectionFrameworkTH/CollectionFrameworkTH.iml" filepath="$PROJECT_DIR$/CollectionFrameworkTH/CollectionFrameworkTH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AccessModifier/AccessModifier.iml" filepath="$PROJECT_DIR$/AccessModifier/AccessModifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AccessModifier/AccessModifierBT/AccessModifierBT.iml" filepath="$PROJECT_DIR$/AccessModifier/AccessModifierBT/AccessModifierBT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AccessModifier/AccessModifierTH/AccessModifierTH.iml" filepath="$PROJECT_DIR$/AccessModifier/AccessModifierTH/AccessModifierTH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayInJava/ArrayInJava.iml" filepath="$PROJECT_DIR$/ArrayInJava/ArrayInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayInJava/ArrayInJavaBT/ArrayInJavaBT.iml" filepath="$PROJECT_DIR$/ArrayInJava/ArrayInJavaBT/ArrayInJavaBT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayInJava/ArrayInJavaTH/ArrayInJavaTH.iml" filepath="$PROJECT_DIR$/ArrayInJava/ArrayInJavaTH/ArrayInJavaTH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutomatedTesting/AutomatedTesting.iml" filepath="$PROJECT_DIR$/AutomatedTesting/AutomatedTesting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutomatedTesting/AutomatedTestingBT/AutomatedTestingBT.iml" filepath="$PROJECT_DIR$/AutomatedTesting/AutomatedTestingBT/AutomatedTestingBT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutomatedTesting/AutomatedTestingTH/AutomatedTestingTH.iml" filepath="$PROJECT_DIR$/AutomatedTesting/AutomatedTestingTH/AutomatedTestingTH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassAndObject/ClassAndObject.iml" filepath="$PROJECT_DIR$/ClassAndObject/ClassAndObject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassAndObject/ClassAndObjectBT/ClassAndObjectBT.iml" filepath="$PROJECT_DIR$/ClassAndObject/ClassAndObjectBT/ClassAndObjectBT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassAndObject/ClassAndObjectTH/ClassAndObjectTH.iml" filepath="$PROJECT_DIR$/ClassAndObject/ClassAndObjectTH/ClassAndObjectTH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CleanCode/CleanCode.iml" filepath="$PROJECT_DIR$/CleanCode/CleanCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CleanCode/CleanCodeBT/CleanCodeBT.iml" filepath="$PROJECT_DIR$/CleanCode/CleanCodeBT/CleanCodeBT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CleanCode/CleanCodeTH/CleanCodeTH.iml" filepath="$PROJECT_DIR$/CleanCode/CleanCodeTH/CleanCodeTH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionFramework/CollectionFramework.iml" filepath="$PROJECT_DIR$/CollectionFramework/CollectionFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionFramework/CollectionFrameworkBT/CollectionFrameworkBT.iml" filepath="$PROJECT_DIR$/CollectionFramework/CollectionFrameworkBT/CollectionFrameworkBT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionFramework/CollectionFrameworkTH/CollectionFrameworkTH.iml" filepath="$PROJECT_DIR$/CollectionFramework/CollectionFrameworkTH/CollectionFrameworkTH.iml" />
       <module fileurl="file://$PROJECT_DIR$/Debug/Debug.iml" filepath="$PROJECT_DIR$/Debug/Debug.iml" />
-      <module fileurl="file://$PROJECT_DIR$/InterfaceAndAbstractBT/InterfaceAndAbstractBT.iml" filepath="$PROJECT_DIR$/InterfaceAndAbstractBT/InterfaceAndAbstractBT.iml" />
-      <module fileurl="file://$PROJECT_DIR$/InterfaceAndAbstractTH/InterfaceAndAbstractTH.iml" filepath="$PROJECT_DIR$/InterfaceAndAbstractTH/InterfaceAndAbstractTH.iml" />
-      <module fileurl="file://$PROJECT_DIR$/IntroJavaBT/IntroJavaBT.iml" filepath="$PROJECT_DIR$/IntroJavaBT/IntroJavaBT.iml" />
-      <module fileurl="file://$PROJECT_DIR$/IntroJavaTH/IntroJavaTH.iml" filepath="$PROJECT_DIR$/IntroJavaTH/IntroJavaTH.iml" />
-      <module fileurl="file://$PROJECT_DIR$/KeThuaBT/KeThuaBT.iml" filepath="$PROJECT_DIR$/KeThuaBT/KeThuaBT.iml" />
-      <module fileurl="file://$PROJECT_DIR$/KeThuaTH/KeThuaTH.iml" filepath="$PROJECT_DIR$/KeThuaTH/KeThuaTH.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ListBT/ListBT.iml" filepath="$PROJECT_DIR$/ListBT/ListBT.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ListTH/ListTH.iml" filepath="$PROJECT_DIR$/ListTH/ListTH.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LoopsInJavaBT/LoopsInJavaBT.iml" filepath="$PROJECT_DIR$/LoopsInJavaBT/LoopsInJavaBT.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LoopsInJavaTH/LoopsInJavaTH.iml" filepath="$PROJECT_DIR$/LoopsInJavaTH/LoopsInJavaTH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IOBinary/IOBinary.iml" filepath="$PROJECT_DIR$/IOBinary/IOBinary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IOBinary/IOBinaryBT/IOBinaryBT.iml" filepath="$PROJECT_DIR$/IOBinary/IOBinaryBT/IOBinaryBT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IOBinary/IOBinaryTH/IOBinaryTH.iml" filepath="$PROJECT_DIR$/IOBinary/IOBinaryTH/IOBinaryTH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceAndAbstract/InterfaceAndAbstract.iml" filepath="$PROJECT_DIR$/InterfaceAndAbstract/InterfaceAndAbstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceAndAbstract/InterfaceAndAbstractBT/InterfaceAndAbstractBT.iml" filepath="$PROJECT_DIR$/InterfaceAndAbstract/InterfaceAndAbstractBT/InterfaceAndAbstractBT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceAndAbstract/InterfaceAndAbstractTH/InterfaceAndAbstractTH.iml" filepath="$PROJECT_DIR$/InterfaceAndAbstract/InterfaceAndAbstractTH/InterfaceAndAbstractTH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntroJava/IntroJava.iml" filepath="$PROJECT_DIR$/IntroJava/IntroJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntroJava/IntroJavaBT/IntroJavaBT.iml" filepath="$PROJECT_DIR$/IntroJava/IntroJavaBT/IntroJavaBT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntroJava/IntroJavaTH/IntroJavaTH.iml" filepath="$PROJECT_DIR$/IntroJava/IntroJavaTH/IntroJavaTH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kethua/KeThuaBT/KeThuaBT.iml" filepath="$PROJECT_DIR$/Kethua/KeThuaBT/KeThuaBT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kethua/KeThuaTH/KeThuaTH.iml" filepath="$PROJECT_DIR$/Kethua/KeThuaTH/KeThuaTH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kethua/Kethua.iml" filepath="$PROJECT_DIR$/Kethua/Kethua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/List.iml" filepath="$PROJECT_DIR$/List/List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/ListBT/ListBT.iml" filepath="$PROJECT_DIR$/List/ListBT/ListBT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/ListTH/ListTH.iml" filepath="$PROJECT_DIR$/List/ListTH/ListTH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoopsInJava/LoopsInJava.iml" filepath="$PROJECT_DIR$/LoopsInJava/LoopsInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoopsInJava/LoopsInJavaBT/LoopsInJavaBT.iml" filepath="$PROJECT_DIR$/LoopsInJava/LoopsInJavaBT/LoopsInJavaBT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoopsInJava/LoopsInJavaTH/LoopsInJavaTH.iml" filepath="$PROJECT_DIR$/LoopsInJava/LoopsInJavaTH/LoopsInJavaTH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SearchAlgorithm/SearchAlgorithm.iml" filepath="$PROJECT_DIR$/SearchAlgorithm/SearchAlgorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/SearchAlgorithmBT/SearchAlgorithmBT.iml" filepath="$PROJECT_DIR$/SearchAlgorithmBT/SearchAlgorithmBT.iml" />
       <module fileurl="file://$PROJECT_DIR$/SearchAlgorithmTH/SearchAlgorithmTH.iml" filepath="$PROJECT_DIR$/SearchAlgorithmTH/SearchAlgorithmTH.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SortAlgorithmBT/SortAlgorithmBT.iml" filepath="$PROJECT_DIR$/SortAlgorithmBT/SortAlgorithmBT.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SortAlgorithmTH/SortAlgorithmTH.iml" filepath="$PROJECT_DIR$/SortAlgorithmTH/SortAlgorithmTH.iml" />
-      <module fileurl="file://$PROJECT_DIR$/StackQueueBT/StackQueueBT.iml" filepath="$PROJECT_DIR$/StackQueueBT/StackQueueBT.iml" />
-      <module fileurl="file://$PROJECT_DIR$/StackQueueTH/StackQueueTH.iml" filepath="$PROJECT_DIR$/StackQueueTH/StackQueueTH.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TextFileBT/TextFileBT.iml" filepath="$PROJECT_DIR$/TextFileBT/TextFileBT.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TextFileTH/TextFileTH.iml" filepath="$PROJECT_DIR$/TextFileTH/TextFileTH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortAlgorithm/SortAlgorithm.iml" filepath="$PROJECT_DIR$/SortAlgorithm/SortAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortAlgorithm/SortAlgorithmBT/SortAlgorithmBT.iml" filepath="$PROJECT_DIR$/SortAlgorithm/SortAlgorithmBT/SortAlgorithmBT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortAlgorithm/SortAlgorithmTH/SortAlgorithmTH.iml" filepath="$PROJECT_DIR$/SortAlgorithm/SortAlgorithmTH/SortAlgorithmTH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StackQueue/StackQueue.iml" filepath="$PROJECT_DIR$/StackQueue/StackQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StackQueue/StackQueueBT/StackQueueBT.iml" filepath="$PROJECT_DIR$/StackQueue/StackQueueBT/StackQueueBT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StackQueue/StackQueueTH/StackQueueTH.iml" filepath="$PROJECT_DIR$/StackQueue/StackQueueTH/StackQueueTH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TextFile/TextFile.iml" filepath="$PROJECT_DIR$/TextFile/TextFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TextFile/TextFileBT/TextFileBT.iml" filepath="$PROJECT_DIR$/TextFile/TextFileBT/TextFileBT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TextFile/TextFileTH/TextFileTH.iml" filepath="$PROJECT_DIR$/TextFile/TextFileTH/TextFileTH.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/module 2.iml" filepath="$PROJECT_DIR$/.idea/module 2.iml" />
     </modules>
   </component>
