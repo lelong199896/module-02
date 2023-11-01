@@ -48,6 +48,9 @@
       <module fileurl="file://$PROJECT_DIR$/StackQueue/StackQueue.iml" filepath="$PROJECT_DIR$/StackQueue/StackQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/StackQueue/StackQueueBT/StackQueueBT.iml" filepath="$PROJECT_DIR$/StackQueue/StackQueueBT/StackQueueBT.iml" />
       <module fileurl="file://$PROJECT_DIR$/StackQueue/StackQueueTH/StackQueueTH.iml" filepath="$PROJECT_DIR$/StackQueue/StackQueueTH/StackQueueTH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringAndRegex/StringAndRegex.iml" filepath="$PROJECT_DIR$/StringAndRegex/StringAndRegex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringAndRegex/StringRegexBT/StringRegexBT.iml" filepath="$PROJECT_DIR$/StringAndRegex/StringRegexBT/StringRegexBT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringAndRegex/StringRegexTH/StringRegexTH.iml" filepath="$PROJECT_DIR$/StringAndRegex/StringRegexTH/StringRegexTH.iml" />
       <module fileurl="file://$PROJECT_DIR$/TextFile/TextFile.iml" filepath="$PROJECT_DIR$/TextFile/TextFile.iml" />
       <module fileurl="file://$PROJECT_DIR$/TextFile/TextFileBT/TextFileBT.iml" filepath="$PROJECT_DIR$/TextFile/TextFileBT/TextFileBT.iml" />
       <module fileurl="file://$PROJECT_DIR$/TextFile/TextFileTH/TextFileTH.iml" filepath="$PROJECT_DIR$/TextFile/TextFileTH/TextFileTH.iml" />
