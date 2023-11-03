@@ -21,6 +21,9 @@
       <module fileurl="file://$PROJECT_DIR$/CollectionFramework/CollectionFrameworkBT/CollectionFrameworkBT.iml" filepath="$PROJECT_DIR$/CollectionFramework/CollectionFrameworkBT/CollectionFrameworkBT.iml" />
       <module fileurl="file://$PROJECT_DIR$/CollectionFramework/CollectionFrameworkTH/CollectionFrameworkTH.iml" filepath="$PROJECT_DIR$/CollectionFramework/CollectionFrameworkTH/CollectionFrameworkTH.iml" />
       <module fileurl="file://$PROJECT_DIR$/Debug/Debug.iml" filepath="$PROJECT_DIR$/Debug/Debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns/DesignPatternsBT/DesignPatternsBT.iml" filepath="$PROJECT_DIR$/DesignPatterns/DesignPatternsBT/DesignPatternsBT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns/DesignPatternsTH/DesignPatternsTH.iml" filepath="$PROJECT_DIR$/DesignPatterns/DesignPatternsTH/DesignPatternsTH.iml" />
       <module fileurl="file://$PROJECT_DIR$/IOBinary/IOBinary.iml" filepath="$PROJECT_DIR$/IOBinary/IOBinary.iml" />
       <module fileurl="file://$PROJECT_DIR$/IOBinary/IOBinaryBT/IOBinaryBT.iml" filepath="$PROJECT_DIR$/IOBinary/IOBinaryBT/IOBinaryBT.iml" />
       <module fileurl="file://$PROJECT_DIR$/IOBinary/IOBinaryTH/IOBinaryTH.iml" filepath="$PROJECT_DIR$/IOBinary/IOBinaryTH/IOBinaryTH.iml" />
@@ -40,8 +43,8 @@
       <module fileurl="file://$PROJECT_DIR$/LoopsInJava/LoopsInJavaBT/LoopsInJavaBT.iml" filepath="$PROJECT_DIR$/LoopsInJava/LoopsInJavaBT/LoopsInJavaBT.iml" />
       <module fileurl="file://$PROJECT_DIR$/LoopsInJava/LoopsInJavaTH/LoopsInJavaTH.iml" filepath="$PROJECT_DIR$/LoopsInJava/LoopsInJavaTH/LoopsInJavaTH.iml" />
       <module fileurl="file://$PROJECT_DIR$/SearchAlgorithm/SearchAlgorithm.iml" filepath="$PROJECT_DIR$/SearchAlgorithm/SearchAlgorithm.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SearchAlgorithmBT/SearchAlgorithmBT.iml" filepath="$PROJECT_DIR$/SearchAlgorithmBT/SearchAlgorithmBT.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SearchAlgorithmTH/SearchAlgorithmTH.iml" filepath="$PROJECT_DIR$/SearchAlgorithmTH/SearchAlgorithmTH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SearchAlgorithm/SearchAlgorithmBT/SearchAlgorithmBT.iml" filepath="$PROJECT_DIR$/SearchAlgorithm/SearchAlgorithmBT/SearchAlgorithmBT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SearchAlgorithm/SearchAlgorithmTH/SearchAlgorithmTH.iml" filepath="$PROJECT_DIR$/SearchAlgorithm/SearchAlgorithmTH/SearchAlgorithmTH.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortAlgorithm/SortAlgorithm.iml" filepath="$PROJECT_DIR$/SortAlgorithm/SortAlgorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortAlgorithm/SortAlgorithmBT/SortAlgorithmBT.iml" filepath="$PROJECT_DIR$/SortAlgorithm/SortAlgorithmBT/SortAlgorithmBT.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortAlgorithm/SortAlgorithmTH/SortAlgorithmTH.iml" filepath="$PROJECT_DIR$/SortAlgorithm/SortAlgorithmTH/SortAlgorithmTH.iml" />
